@@ -76,7 +76,7 @@ Back-end:
 1. `Fork` (recommended) or `clone` this repository:
 
    ```bash
-   git clone https://github.com/ErickLimaS/anime-website.git
+   git clone <repo url>
    ```
 
 2. Install dependencies:
@@ -91,8 +91,8 @@ Back-end:
      - <a href='https://github.com/consumet/api.consumet.org' target="_blank" rel="noreferrer">Consumet API</a>
      - <a href='https://github.com/ghoshRitesh12/aniwatch-api' target="_blank" rel="noreferrer">Aniwatch API</a>
 
-   - **AniList Login** (OAuth):
-     - Sign in to your AniList account.
+   - **Login** (OAuth):
+     - Sign in to your account.
      - Go to the <a href='https://anilist.co/settings/developer'>Developer page</a> in Settings and click "Create New Client".
      - Add the name of your forked project/website and the redirect URL, then click "Save".
      - Copy the Client ID and Secret into your `.env.local`.
