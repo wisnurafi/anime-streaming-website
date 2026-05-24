@@ -2,11 +2,6 @@
 
 An anime and manga streaming/reading website powered by the AniList, Consumet, and Aniwatch APIs. It provides information about released anime and manga, cast and staff details, episode streaming, manga reading, comments, watchlists, and more.
 
-<p align="center">You can access this website on <a href='https://aniproject-dev.vercel.app/'>Vercel</a> or <a href='https://aniproject-website.onrender.com'>Render (slow cold start)</a>.</p>
-
-> [!CAUTION]
-> This project is strictly non-commercial. You may not generate revenue from it or include advertisements. Violating this policy may result in legal action.
-
 ## Navigation
 
 - [Features](#sparkles-features)
