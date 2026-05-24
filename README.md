@@ -1,6 +1,4 @@
-<h1 align="center">AniProject</h1>
-
-![AniProject Website Logo](https://user-images.githubusercontent.com/69987890/177884319-0678f842-f3ca-4f62-8d31-7638ca954057.png)
+<h1 align="center">Anime Streaming</h1>
 
 An anime and manga streaming/reading website powered by the AniList, Consumet, and Aniwatch APIs. It provides information about released anime and manga, cast and staff details, episode streaming, manga reading, comments, watchlists, and more.
 
